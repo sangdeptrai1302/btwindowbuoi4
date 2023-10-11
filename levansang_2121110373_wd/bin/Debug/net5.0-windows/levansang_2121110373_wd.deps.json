@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "levansang_2121110373_wd/1.0.0": {
+        "runtime": {
+          "levansang_2121110373_wd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "levansang_2121110373_wd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

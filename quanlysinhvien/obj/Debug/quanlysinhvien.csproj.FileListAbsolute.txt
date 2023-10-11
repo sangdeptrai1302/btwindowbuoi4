@@ -1,0 +1,10 @@
+E:\window\levansang_2121110373_wd\quanlysinhvien\bin\Debug\quanlysinhvien.exe.config
+E:\window\levansang_2121110373_wd\quanlysinhvien\bin\Debug\quanlysinhvien.exe
+E:\window\levansang_2121110373_wd\quanlysinhvien\bin\Debug\quanlysinhvien.pdb
+E:\window\levansang_2121110373_wd\quanlysinhvien\obj\Debug\quanlysinhvien.csproj.AssemblyReference.cache
+E:\window\levansang_2121110373_wd\quanlysinhvien\obj\Debug\quanlysinhvien.Form1.resources
+E:\window\levansang_2121110373_wd\quanlysinhvien\obj\Debug\quanlysinhvien.Properties.Resources.resources
+E:\window\levansang_2121110373_wd\quanlysinhvien\obj\Debug\quanlysinhvien.csproj.GenerateResource.cache
+E:\window\levansang_2121110373_wd\quanlysinhvien\obj\Debug\quanlysinhvien.csproj.CoreCompileInputs.cache
+E:\window\levansang_2121110373_wd\quanlysinhvien\obj\Debug\quanlysinhvien.exe
+E:\window\levansang_2121110373_wd\quanlysinhvien\obj\Debug\quanlysinhvien.pdb

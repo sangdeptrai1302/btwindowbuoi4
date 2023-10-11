@@ -1,0 +1,9 @@
+E:\window\levansang_2121110373_wd\Article16\bin\Debug\Article16.exe.config
+E:\window\levansang_2121110373_wd\Article16\bin\Debug\Article16.exe
+E:\window\levansang_2121110373_wd\Article16\bin\Debug\Article16.pdb
+E:\window\levansang_2121110373_wd\Article16\obj\Debug\Article16.Form1.resources
+E:\window\levansang_2121110373_wd\Article16\obj\Debug\Article16.Properties.Resources.resources
+E:\window\levansang_2121110373_wd\Article16\obj\Debug\Article16.csproj.GenerateResource.cache
+E:\window\levansang_2121110373_wd\Article16\obj\Debug\Article16.csproj.CoreCompileInputs.cache
+E:\window\levansang_2121110373_wd\Article16\obj\Debug\Article16.exe
+E:\window\levansang_2121110373_wd\Article16\obj\Debug\Article16.pdb

@@ -1,0 +1,10 @@
+E:\window\levansang_2121110373_wd\article8\bin\Debug\article8.exe.config
+E:\window\levansang_2121110373_wd\article8\bin\Debug\article8.exe
+E:\window\levansang_2121110373_wd\article8\bin\Debug\article8.pdb
+E:\window\levansang_2121110373_wd\article8\obj\Debug\article8.csproj.AssemblyReference.cache
+E:\window\levansang_2121110373_wd\article8\obj\Debug\article8.Form1.resources
+E:\window\levansang_2121110373_wd\article8\obj\Debug\article8.Properties.Resources.resources
+E:\window\levansang_2121110373_wd\article8\obj\Debug\article8.csproj.GenerateResource.cache
+E:\window\levansang_2121110373_wd\article8\obj\Debug\article8.csproj.CoreCompileInputs.cache
+E:\window\levansang_2121110373_wd\article8\obj\Debug\article8.exe
+E:\window\levansang_2121110373_wd\article8\obj\Debug\article8.pdb

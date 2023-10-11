@@ -1,0 +1,10 @@
+E:\window\levansang_2121110373_wd\Article17\bin\Debug\Article17.exe.config
+E:\window\levansang_2121110373_wd\Article17\bin\Debug\Article17.exe
+E:\window\levansang_2121110373_wd\Article17\bin\Debug\Article17.pdb
+E:\window\levansang_2121110373_wd\Article17\obj\Debug\Article17.csproj.AssemblyReference.cache
+E:\window\levansang_2121110373_wd\Article17\obj\Debug\Article17.Form1.resources
+E:\window\levansang_2121110373_wd\Article17\obj\Debug\Article17.Properties.Resources.resources
+E:\window\levansang_2121110373_wd\Article17\obj\Debug\Article17.csproj.GenerateResource.cache
+E:\window\levansang_2121110373_wd\Article17\obj\Debug\Article17.csproj.CoreCompileInputs.cache
+E:\window\levansang_2121110373_wd\Article17\obj\Debug\Article17.exe
+E:\window\levansang_2121110373_wd\Article17\obj\Debug\Article17.pdb

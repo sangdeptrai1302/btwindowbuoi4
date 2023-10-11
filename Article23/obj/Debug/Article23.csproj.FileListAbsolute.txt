@@ -1,0 +1,10 @@
+E:\window\levansang_2121110373_wd\Article23\bin\Debug\Article23.exe.config
+E:\window\levansang_2121110373_wd\Article23\bin\Debug\Article23.exe
+E:\window\levansang_2121110373_wd\Article23\bin\Debug\Article23.pdb
+E:\window\levansang_2121110373_wd\Article23\obj\Debug\Article23.csproj.AssemblyReference.cache
+E:\window\levansang_2121110373_wd\Article23\obj\Debug\Article23.Form1.resources
+E:\window\levansang_2121110373_wd\Article23\obj\Debug\Article23.Properties.Resources.resources
+E:\window\levansang_2121110373_wd\Article23\obj\Debug\Article23.csproj.GenerateResource.cache
+E:\window\levansang_2121110373_wd\Article23\obj\Debug\Article23.csproj.CoreCompileInputs.cache
+E:\window\levansang_2121110373_wd\Article23\obj\Debug\Article23.exe
+E:\window\levansang_2121110373_wd\Article23\obj\Debug\Article23.pdb

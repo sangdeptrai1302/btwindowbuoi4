@@ -1,0 +1,9 @@
+E:\window\levansang_2121110373_wd\Article15\bin\Debug\Article15.exe.config
+E:\window\levansang_2121110373_wd\Article15\bin\Debug\Article15.exe
+E:\window\levansang_2121110373_wd\Article15\bin\Debug\Article15.pdb
+E:\window\levansang_2121110373_wd\Article15\obj\Debug\Article15.Form1.resources
+E:\window\levansang_2121110373_wd\Article15\obj\Debug\Article15.Properties.Resources.resources
+E:\window\levansang_2121110373_wd\Article15\obj\Debug\Article15.csproj.GenerateResource.cache
+E:\window\levansang_2121110373_wd\Article15\obj\Debug\Article15.csproj.CoreCompileInputs.cache
+E:\window\levansang_2121110373_wd\Article15\obj\Debug\Article15.exe
+E:\window\levansang_2121110373_wd\Article15\obj\Debug\Article15.pdb

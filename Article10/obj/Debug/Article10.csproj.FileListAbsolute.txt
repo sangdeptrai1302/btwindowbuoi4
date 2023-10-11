@@ -1,0 +1,10 @@
+E:\window\levansang_2121110373_wd\Article10\bin\Debug\Article10.exe.config
+E:\window\levansang_2121110373_wd\Article10\bin\Debug\Article10.exe
+E:\window\levansang_2121110373_wd\Article10\bin\Debug\Article10.pdb
+E:\window\levansang_2121110373_wd\Article10\obj\Debug\Article10.csproj.AssemblyReference.cache
+E:\window\levansang_2121110373_wd\Article10\obj\Debug\Article10.Form1.resources
+E:\window\levansang_2121110373_wd\Article10\obj\Debug\Article10.Properties.Resources.resources
+E:\window\levansang_2121110373_wd\Article10\obj\Debug\Article10.csproj.GenerateResource.cache
+E:\window\levansang_2121110373_wd\Article10\obj\Debug\Article10.csproj.CoreCompileInputs.cache
+E:\window\levansang_2121110373_wd\Article10\obj\Debug\Article10.exe
+E:\window\levansang_2121110373_wd\Article10\obj\Debug\Article10.pdb

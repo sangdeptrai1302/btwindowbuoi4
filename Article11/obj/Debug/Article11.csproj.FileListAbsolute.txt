@@ -1,0 +1,10 @@
+E:\window\levansang_2121110373_wd\Article11\bin\Debug\Article11.exe.config
+E:\window\levansang_2121110373_wd\Article11\bin\Debug\Article11.exe
+E:\window\levansang_2121110373_wd\Article11\bin\Debug\Article11.pdb
+E:\window\levansang_2121110373_wd\Article11\obj\Debug\Article11.Form1.resources
+E:\window\levansang_2121110373_wd\Article11\obj\Debug\Article11.Properties.Resources.resources
+E:\window\levansang_2121110373_wd\Article11\obj\Debug\Article11.csproj.GenerateResource.cache
+E:\window\levansang_2121110373_wd\Article11\obj\Debug\Article11.csproj.CoreCompileInputs.cache
+E:\window\levansang_2121110373_wd\Article11\obj\Debug\Article11.exe
+E:\window\levansang_2121110373_wd\Article11\obj\Debug\Article11.pdb
+E:\window\levansang_2121110373_wd\Article11\obj\Debug\Article11.csproj.AssemblyReference.cache
